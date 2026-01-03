@@ -19,5 +19,4 @@ It has some very good features.
 Read the contributing guidelines
 
 ## LICENSE
-
-Copyright (c) 2026 Vivek Kumar. All Rights Reserved.
+see LICENSE file.
